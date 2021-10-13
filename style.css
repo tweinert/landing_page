@@ -1,0 +1,80 @@
+/* header */
+
+.header {
+    background-color: #1F2937;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.header-div {
+    display: flex;
+    margin: 0px 20%; 
+}
+
+.header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+
+    display: flex;
+    margin: 16px 0 0 16px;
+    padding: 0;
+}
+
+.right-links {
+    color: #E5E7EB;
+    font-size: 18px;
+    list-style: none;
+
+    display: flex;
+    margin: 16px 16px;
+    padding: 0;
+    gap: 16px;
+    margin-left: auto;
+}
+
+.header-main-container {
+    display: flex;
+    align-items: flex-start;
+    margin: 100px 20%;
+}
+
+.header-main-container img {
+    max-width: 40%;
+    height: auto;
+}
+
+.header-content {
+    flex: 1;
+    padding: 10px;
+}
+
+.header-main-text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.header-subtext {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.header button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    width: 100px;
+    margin: 20px 0px;
+}
+
+
+/* information */
+
+
+
+/* quote */
+
+
+
+/* sign up */
