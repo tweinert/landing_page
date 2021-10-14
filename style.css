@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
 /* header */
 
 .header {
@@ -64,8 +68,11 @@
 .header button {
     background-color: #3882F6;
     color: #E5E7EB;
-    width: 100px;
+    font-weight: bold;
+    padding: 5px 30px;
     margin: 20px 0px;
+    border:none;
+    border-radius: 4px;
 }
 
 
