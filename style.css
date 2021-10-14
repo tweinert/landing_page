@@ -78,6 +78,25 @@ body {
 
 /* information */
 
+.info-title,
+.information {
+    text-align: center;
+}
+
+.info-title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
+    margin: 32px 0 32px 0;
+}
+
+.information {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+    margin: 100px 20%;
+}
 
 
 /* quote */
